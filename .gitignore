@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Lathe CNC control profiles that get created on first run
+ioSender/PartingProfiles.xml
+ioSender/ThreadingProfiles.xml
+ioSender/TurningProfiles.xml
